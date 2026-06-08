@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- Replace the URL below with any GIF you prefer! -->
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZtZHNqcm4wNGJqanM1MWY0a2ZyeDBpMDF3dGJnZWFmZDlqbjI5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggCGvnLcs/giphy.gif" alt="Coding GIF" width="600" />
+  <img src="assets/profile.gif" alt="Profile GIF" width="600" />
   
   # Hey, I'm Devendra (Dev) 👋
   
@@ -16,7 +15,7 @@
 I am a passionate developer based in **Bangalore, India**, focused on bridging the gap between cutting-edge AI research and production-ready applications. 
 
 - 🔭 **Currently learning & building:** Advanced RAG, Agentic Workflows, MCP, and Rust.
-- 💡 **Core Expertise:** LLMs, AI Agents, FastAPI, React/Next.js, Node.js, PostgreSQL , Linux and AWS .
+- 💡 **Core Expertise:** LLMs, AI Agents, FastAPI, React/Next.js, Node.js, PostgreSQL, Linux, and AWS.
 - 🤝 **Open to:** Startup Opportunities, Remote Roles, Freelance Projects, and Open Source collaboration.
 
 ---
@@ -66,8 +65,11 @@ I am a passionate developer based in **Bangalore, India**, focused on bridging t
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devsjeff&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=777777" alt="Devendra's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsjeff&layout=compact&theme=transparent&hide_border=true&title_color=38B2AC&text_color=777777" alt="Top Languages" />
+
+[![Devendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devsjeff&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=777777)](https://github.com/devsjeff)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devsjeff&layout=compact&theme=transparent&hide_border=true&title_color=38B2AC&text_color=777777)](https://github.com/devsjeff)
+
 </div>
 
 ---
