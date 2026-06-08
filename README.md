@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/profile.gif" alt="Profile GIF" width="50%" />
+  <img src="assets/profile.gif" alt="Profile GIF" width="330%" />
   
   # Hey, I'm Devendra (Dev) 👋
   
