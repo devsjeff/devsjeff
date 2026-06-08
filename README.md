@@ -16,7 +16,7 @@
 I am a passionate developer based in **Bangalore, India**, focused on bridging the gap between cutting-edge AI research and production-ready applications. 
 
 - 🔭 **Currently learning & building:** Advanced RAG, Agentic Workflows, MCP, and Rust.
-- 💡 **Core Expertise:** LLMs, AI Agents, FastAPI, React/Next.js, Node.js, and PostgreSQL.
+- 💡 **Core Expertise:** LLMs, AI Agents, FastAPI, React/Next.js, Node.js, PostgreSQL , Linux and AWS .
 - 🤝 **Open to:** Startup Opportunities, Remote Roles, Freelance Projects, and Open Source collaboration.
 
 ---
